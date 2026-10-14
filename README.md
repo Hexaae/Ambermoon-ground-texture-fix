@@ -7,12 +7,12 @@ Ground texture replacement for the Ambermoon project (as well as the original ga
 (green = original game, grey flagstone paving = mod-fix)
 
 ### ℹ️ Info
-The "correction" is still a matter of debate amongst purists who think original was ok "grass" (?!), but there are some clear clues to suggest that amongst the many minor bugs in this incredible game, this ground texture might also have been bugged with swapped colors... More details, if interested, in this discussion https://github.com/Pyrdacor/Ambermoon/issues/136#issuecomment-6151645749 <br>
-- The texture itself has not been changed, keeping the original palette and _**just rearranging colors**_ for a more coherent result:
+The "correction" is still a matter of debate amongst purists who think original was ok "grass" (?!), but there are some clear clues to suggest that amongst the many minor bugs in this incredible game, this  might have been simply a flagstone texture bugged with swapped colors... More details, if interested, in this discussion https://github.com/Pyrdacor/Ambermoon/issues/136#issuecomment-6151645749 <br>
+- The texture itself has not been changed, keeping the original palette and _**just rearranging colors**_ for a surprisingly coherent result (hard for me to believe it was just a coincidence):
 
 <img width="64" height="64" alt="010_indexed - orig" src="https://github.com/user-attachments/assets/39e79c19-7b6e-46ed-9b9b-196474908833" /> ---> <img width="64" height="64" alt="010_indexed" src="https://github.com/user-attachments/assets/d044266b-3667-42bb-b17b-c78323f247fa" />
 
-... which now "suspicioulsy" perfectly matches the rest of the graphics in the game and the original art-direction. Look at the ground gfx for example, still in Spannenberg (same as pic above), when in combat-mode:
+... which now "suspicioulsy" perfectly matches the original art-direction of the rest of the graphics in this masterpiece. Look here for example at the ground gfx, when in combat-mode, still in Spannenberg (as in the 1st pic):
 
 <img width="1807" height="1118" alt="ground_fix_03_combat_mode" src="https://github.com/user-attachments/assets/8aea2d9e-ce42-42bf-9c9e-8aa37fb3b851" />
 
