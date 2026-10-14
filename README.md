@@ -8,7 +8,7 @@ Ground texture replacement for the Ambermoon project (as well as the original ga
 
 ### ℹ️ Info
 The "correction" is still a matter of debate amongst purists, but there are some clear clues to suggest that, amongst the many minor bugs in this incredible game, this ground texture might also have been bugged with swapped colors... More details, if interested, in this discussion https://github.com/Pyrdacor/Ambermoon/issues/136#issuecomment-6151645749 <br>
-- The texture itself has not been changed, keeping the original palette and _**just rearranging colors**_ for a more logical result:
+- The texture itself has not been changed, keeping the original palette and _**just rearranging colors**_ for a more coherent result:
 
 <img width="64" height="64" alt="010_indexed - orig" src="https://github.com/user-attachments/assets/39e79c19-7b6e-46ed-9b9b-196474908833" /> ---> <img width="64" height="64" alt="010_indexed" src="https://github.com/user-attachments/assets/d044266b-3667-42bb-b17b-c78323f247fa" />
 
