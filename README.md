@@ -12,7 +12,7 @@ The "correction" is still a matter of debate amongst purists who think original 
 
 <img width="64" height="64" alt="010_indexed - orig" src="https://github.com/user-attachments/assets/39e79c19-7b6e-46ed-9b9b-196474908833" /> ---> <img width="64" height="64" alt="010_indexed" src="https://github.com/user-attachments/assets/d044266b-3667-42bb-b17b-c78323f247fa" />
 
-... which now "suspicioulsy" perfectly matches the original art-direction of the rest of the graphics in this masterpiece. Look here for example at the ground gfx, when in combat-mode, still in Spannenberg (as in the 1st pic):
+... which now "suspicioulsy" perfectly matches the original art-direction of the rest of the graphics in this masterpiece. Look here for example at the ground, when in combat-mode, still in Spannenberg (as in the 1st pic) that confirms the assumption:
 
 <img width="1807" height="1118" alt="ground_fix_03_combat_mode" src="https://github.com/user-attachments/assets/8aea2d9e-ce42-42bf-9c9e-8aa37fb3b851" />
 
