@@ -1,6 +1,6 @@
 # Ground texture fix for Ambermoon
 
-Ground texture replacement for Ambermoon project (and also for the original game) by @Pyrdacor https://github.com/Pyrdacor/Ambermoon/issues/ to finally fix the "green alien vomit" ;-) broken (IMHO) texture in the original game using allegedly swapped colors palette:
+Ground texture replacement for Ambermoon project (as well as the original game) by @Pyrdacor https://github.com/Pyrdacor/Ambermoon/issues/ to finally fix the "green alien vomit" ;-) broken (IMHO) texture in the original game using allegedly swapped colors palette:
 
 <img width="1807" height="1118" alt="ground_fixed_ezgif com-gif-maker" src="https://github.com/user-attachments/assets/6b37adf1-8ba4-4686-8338-9e0f8068c1c8" />
 <br>
